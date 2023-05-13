@@ -3,8 +3,9 @@
 ## How to run the project
 
 - please clone the repository.
+- int terminal, run "Flutter clean".
 - in terminal, write "Flutter pub get" to install the packages.
-- then, run the project " Flutter run"
+- then, run the project " Flutter run" and select an emulator.
 
 ## Packages used
 
