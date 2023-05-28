@@ -5,7 +5,8 @@ import 'package:learn_programming/core/constants/my_app_colors.dart';
 import 'package:learn_programming/modules/class_details/providers/class_details_provider.dart';
 import 'package:sizer/sizer.dart';
 
-class ClassDetailsAppBar extends StatelessWidget with PreferredSizeWidget {
+class ClassDetailsAppBar extends StatelessWidget
+    implements PreferredSizeWidget {
   ///Builds a class details [AppBar]
   const ClassDetailsAppBar({
     super.key,
